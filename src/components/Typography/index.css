@@ -1,0 +1,14 @@
+.typo--sm{
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.typo--md{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.typo--lg{
+    font-size: 16px;
+    line-height: 24px;
+}

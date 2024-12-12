@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container{
+
+  width: 980px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.buttons{
+  margin-top: 70px;
+}
+.inputs{
+  margin-top: 70px;
+}
+.Typography{
+  margin-top: 70px;
+}
+
+.heading{
+  margin-top: 70px;
+}
+.tooltip{
+  margin-top: 70px;
+}
+.accord{
+  margin-top: 70px;
+}

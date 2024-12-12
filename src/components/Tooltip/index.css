@@ -1,0 +1,44 @@
+
+.tooltip-container {
+    position: relative;
+  }
+  
+  .tooltip-box {
+    position: absolute;
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    white-space: nowrap;
+    display: none;
+  }
+  
+  .tooltip-container:hover .tooltip-box {
+    display: block;
+  }
+  
+  .tooltip-top {
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .tooltip-bottom {
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .tooltip-left {
+    top: 50%;
+    left: 55%;
+    transform: translateY(-50%);
+  }
+  
+  .tooltip-right {
+    top: 50%;
+    right: 55%;
+    transform: translateY(-50%);
+  }
+  
